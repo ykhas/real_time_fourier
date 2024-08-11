@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@techstark/opencv-js": "^4.10.0-beta.1",
+    "ndarray-fft": "^1.0.3",
+    "ndarray-ops": "^1.2.2",
+    "zeros": "^1.0.0"
+  }
+}

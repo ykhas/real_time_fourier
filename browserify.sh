@@ -1,0 +1,1 @@
+browserify app/js/videoEffects.js -o app/bundle.js
